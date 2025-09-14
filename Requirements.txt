@@ -1,0 +1,6 @@
+streamlit
+pandas
+datasets
+sentence-transformers
+scikit-learn
+numpy
